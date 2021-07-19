@@ -6,7 +6,7 @@
   <link href="https://hcsc-25th.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://hcsc-25th.github.io/blog/"/>
-  <updated>2021-07-19T14:07:15.697Z</updated>
+  <updated>2021-07-19T14:21:00.242Z</updated>
   <id>https://hcsc-25th.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文章中的影片不能看，或一直載入？</title>
+    <link href="https://hcsc-25th.github.io/blog/2021/07/19/video-problem/"/>
+    <id>https://hcsc-25th.github.io/blog/2021/07/19/video-problem/</id>
+    <published>2021-07-19T14:15:13.000Z</published>
+    <updated>2021-07-19T14:21:00.242Z</updated>
+    
+    <content type="html"><![CDATA[<p>文章中的影片如果出現錯誤情形，導致無法看影片內容時，通常有下列幾種方式可以解決</p><ul><li>直接到主網站觀看 <a href="https://odysee.com/@hcsc-25th:e">連結</a>，有時候只是嵌入的網站有問題</li><li>因為有可能是主機剛開機，所以隔一天之後再看可能就好了。</li><li>IGTV應該也會有對應的影片 <a href="https://hcsc-25th.github.io/s/IG/">IG 連結</a></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;文章中的影片如果出現錯誤情形，導致無法看影片內容時，通常有下列幾種方式可以解決&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;直接到主網站觀看 &lt;a href=&quot;https://odysee.com/@hcsc-25th:e&quot;&gt;連結&lt;/a&gt;，有時候只是嵌入的網站有問題&lt;/li&gt;
+&lt;li&gt;因為有可能是主機剛開機，所以隔一天之後再看可能</summary>
+      
+    
+    
+    
+    
+    <category term="video" scheme="https://hcsc-25th.github.io/blog/tags/video/"/>
+    
+  </entry>
   
   <entry>
     <title>新的影片片頭喔！</title>
