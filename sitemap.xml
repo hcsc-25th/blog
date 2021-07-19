@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hcsc-25th.github.io/blog/2021/07/19/new-intro/</loc>
+    
+    <lastmod>2021-07-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hcsc-25th.github.io/blog/2021/07/10/one-another-ad/</loc>
     
     <lastmod>2021-07-14</lastmod>
@@ -60,36 +67,36 @@
 
   <url>
     <loc>https://hcsc-25th.github.io/blog</loc>
-    <lastmod>2021-07-14</lastmod>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://hcsc-25th.github.io/blog/tags/announcement/</loc>
-    <lastmod>2021-07-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hcsc-25th.github.io/blog/tags/fun/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hcsc-25th.github.io/blog/tags/filter/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hcsc-25th.github.io/blog/tags/instagram/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <lastmod>2021-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcsc-25th.github.io/blog/tags/announcement/</loc>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -97,15 +104,15 @@
 
   
   <url>
-    <loc>https://hcsc-25th.github.io/blog/categories/notice/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <loc>https://hcsc-25th.github.io/blog/categories/fun/</loc>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://hcsc-25th.github.io/blog/categories/fun/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <loc>https://hcsc-25th.github.io/blog/categories/notice/</loc>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
