@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hcsc-25th.github.io/blog/2021/07/29/lab-11007-A2-2/</loc>
+    
+    <lastmod>2021-07-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hcsc-25th.github.io/blog/2021/07/28/lab-week-1/</loc>
     
     <lastmod>2021-07-29</lastmod>
@@ -17,13 +24,6 @@
   
   <url>
     <loc>https://hcsc-25th.github.io/blog/2021/07/23/lab-11007-A1-2/</loc>
-    
-    <lastmod>2021-07-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hcsc-25th.github.io/blog/2021/07/29/lab-11007-A2-2/</loc>
     
     <lastmod>2021-07-29</lastmod>
     
@@ -116,6 +116,13 @@
 
   
   <url>
+    <loc>https://hcsc-25th.github.io/blog/tags/announcement/</loc>
+    <lastmod>2021-07-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hcsc-25th.github.io/blog/tags/fun/</loc>
     <lastmod>2021-07-29</lastmod>
     <changefreq>daily</changefreq>
@@ -131,13 +138,6 @@
   
   <url>
     <loc>https://hcsc-25th.github.io/blog/tags/instagram/</loc>
-    <lastmod>2021-07-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcsc-25th.github.io/blog/tags/announcement/</loc>
     <lastmod>2021-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -160,14 +160,14 @@
 
   
   <url>
-    <loc>https://hcsc-25th.github.io/blog/categories/fun/</loc>
+    <loc>https://hcsc-25th.github.io/blog/categories/notice/</loc>
     <lastmod>2021-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://hcsc-25th.github.io/blog/categories/notice/</loc>
+    <loc>https://hcsc-25th.github.io/blog/categories/fun/</loc>
     <lastmod>2021-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
