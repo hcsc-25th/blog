@@ -123,6 +123,27 @@
   </url>
   
   <url>
+    <loc>https://hcsc-25th.github.io/blog/tags/fun/</loc>
+    <lastmod>2021-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcsc-25th.github.io/blog/tags/filter/</loc>
+    <lastmod>2021-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcsc-25th.github.io/blog/tags/instagram/</loc>
+    <lastmod>2021-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hcsc-25th.github.io/blog/tags/lab/</loc>
     <lastmod>2021-07-31</lastmod>
     <changefreq>daily</changefreq>
@@ -179,27 +200,6 @@
   </url>
   
   <url>
-    <loc>https://hcsc-25th.github.io/blog/tags/fun/</loc>
-    <lastmod>2021-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcsc-25th.github.io/blog/tags/filter/</loc>
-    <lastmod>2021-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcsc-25th.github.io/blog/tags/instagram/</loc>
-    <lastmod>2021-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hcsc-25th.github.io/blog/tags/video/</loc>
     <lastmod>2021-07-31</lastmod>
     <changefreq>daily</changefreq>
@@ -216,13 +216,6 @@
   </url>
   
   <url>
-    <loc>https://hcsc-25th.github.io/blog/categories/lab/</loc>
-    <lastmod>2021-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hcsc-25th.github.io/blog/categories/fun/</loc>
     <lastmod>2021-07-31</lastmod>
     <changefreq>daily</changefreq>
@@ -230,49 +223,7 @@
   </url>
   
   <url>
-    <loc>https://hcsc-25th.github.io/blog/categories/lab/%E6%B3%A2%E8%8C%B2%E6%9B%BC%E5%B8%B8%E6%95%B8/</loc>
-    <lastmod>2021-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcsc-25th.github.io/blog/categories/lab/%E6%B3%A2%E8%8C%B2%E6%9B%BC%E5%B8%B8%E6%95%B8/%E7%86%B5%E7%9A%84%E5%AE%9A%E7%BE%A9/</loc>
-    <lastmod>2021-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcsc-25th.github.io/blog/categories/lab/%E6%B3%A2%E8%8C%B2%E6%9B%BC%E5%B8%B8%E6%95%B8/%E7%86%B5%E7%9A%84%E5%AE%9A%E7%BE%A9/%E7%86%B1%E5%8A%9B%E5%AD%B8%E7%AC%AC%E4%BA%8C%E5%AE%9A%E5%BE%8B-%E9%AB%98%E4%B8%AD/</loc>
-    <lastmod>2021-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcsc-25th.github.io/blog/categories/lab/%E6%B3%A2%E8%8C%B2%E6%9B%BC%E5%B8%B8%E6%95%B8/%E7%86%B5%E7%9A%84%E5%AE%9A%E7%BE%A9/%E7%86%B1%E5%8A%9B%E5%AD%B8%E7%AC%AC%E4%BA%8C%E5%AE%9A%E5%BE%8B-%E9%AB%98%E4%B8%AD/%E5%85%A7%E5%BF%83%E5%8F%97%E5%89%B5/</loc>
-    <lastmod>2021-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcsc-25th.github.io/blog/categories/lab/%E6%B3%A2%E8%8C%B2%E6%9B%BC%E5%B8%B8%E6%95%B8/%E7%86%B5%E7%9A%84%E5%AE%9A%E7%BE%A9/%E7%86%B1%E5%8A%9B%E5%AD%B8%E7%AC%AC%E4%BA%8C%E5%AE%9A%E5%BE%8B-%E9%AB%98%E4%B8%AD/%E5%85%A7%E5%BF%83%E5%8F%97%E5%89%B5/%E7%AB%B9%E4%B8%AD%E7%A7%91%E7%A0%94/</loc>
-    <lastmod>2021-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcsc-25th.github.io/blog/categories/lab/%E6%B3%A2%E8%8C%B2%E6%9B%BC%E5%B8%B8%E6%95%B8/%E7%86%B5%E7%9A%84%E5%AE%9A%E7%BE%A9/%E7%86%B1%E5%8A%9B%E5%AD%B8%E7%AC%AC%E4%BA%8C%E5%AE%9A%E5%BE%8B-%E9%AB%98%E4%B8%AD/%E5%85%A7%E5%BF%83%E5%8F%97%E5%89%B5/%E7%AB%B9%E4%B8%AD%E7%A7%91%E7%A0%94/%E6%9B%B4%E5%AE%8C%E5%82%99%E7%9A%84%E7%86%B1%E5%8A%9B%E5%AD%B8%E7%AC%AC%E4%BA%8C%E5%AE%9A%E5%BE%8B/</loc>
-    <lastmod>2021-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcsc-25th.github.io/blog/categories/lab/%E6%B3%A2%E8%8C%B2%E6%9B%BC%E5%B8%B8%E6%95%B8/%E7%86%B5%E7%9A%84%E5%AE%9A%E7%BE%A9/%E7%86%B1%E5%8A%9B%E5%AD%B8%E7%AC%AC%E4%BA%8C%E5%AE%9A%E5%BE%8B-%E9%AB%98%E4%B8%AD/%E5%85%A7%E5%BF%83%E5%8F%97%E5%89%B5/%E7%AB%B9%E4%B8%AD%E7%A7%91%E7%A0%94/%E6%9B%B4%E5%AE%8C%E5%82%99%E7%9A%84%E7%86%B1%E5%8A%9B%E5%AD%B8%E7%AC%AC%E4%BA%8C%E5%AE%9A%E5%BE%8B/morley-%E6%BA%AB%E5%BA%A6/</loc>
+    <loc>https://hcsc-25th.github.io/blog/categories/lab/</loc>
     <lastmod>2021-07-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
