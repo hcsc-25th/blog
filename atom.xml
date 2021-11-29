@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>竹中科研 HCSC 25TH BLOG</title>
+  <title>竹中科研 HCSC 25</title>
   <icon>https://hcsc-25th.github.io/blog/blog/img/avatar.png</icon>
-  <subtitle>Lab Delight 竹中科研，絕非等閑</subtitle>
+  <subtitle>竹中科研。絕非等閑</subtitle>
   <link href="https://hcsc-25th.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://hcsc-25th.github.io/blog/"/>
